@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer & creative mind from Morocco</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Self-taught+developer;Loves+coding+and+design;Currently+learning+Web+3.0;Let's+build+cool+stuff!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Moroccan-Dev+Designer;Loves+coding+and+design;Currently+learning+Web+3.0;Let's+build+cool+stuff!+🚀" />
 
 </p>
 
