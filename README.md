@@ -14,7 +14,7 @@
 - 👨‍💻 I’m currently working on: `novalBot`, `CozyPlace (Roblox)`  
 - 🌱 I’m learning: `TypeScript`, `Lua`, and `Next.js`  
 - 🛠️ Tools: `JavaScript`, `Python`, `Roblox Studio`, `Discord.js`, `VS Code`  
-- 📫 Reach me on Discord: `bilalhafdi#1234`
+- 📫 Reach me on Discord: `g7kx`
 
 ---
 
