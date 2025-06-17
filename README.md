@@ -46,6 +46,6 @@
 
 ### 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EyqbbdJVP4)
+[![Discord](https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adxKrs8KXT)
 [![YouTube](https://img.shields.io/badge/-YouTube-EA3323?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ervaaaaaaan)
 
