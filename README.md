@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bilal Hafdi</h1>
+<h1 align="center">Hi there 👋, I'm Bilal</h1>
 <h3 align="center">A passionate developer & creative mind from Morocco</h3>
 
 <p align="center">
