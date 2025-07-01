@@ -68,7 +68,6 @@
 "I once coded for 36 hours straight to meet a deadline - fueled by coffee ☕ and pizza 🍕!"
 
 ---
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
