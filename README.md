@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=38BDD8&center=true&vCenter=true&width=1000&lines=Passionate+%7C+Creative+%7C+Problem+Solver;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Turning+ideas+into+reality+with+code)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=b1lal4real&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1lal4real&layout=compact&theme=radical" alt="Top Languages" height="180">
 </div>
 
 ## 🛠️ Tech Stack
