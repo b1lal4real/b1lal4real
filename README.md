@@ -100,8 +100,6 @@ const bilal = {
 
 <div align="center">
   <i>✨ "The best way to predict the future is to create it" ✨</i>
-  <br><br>
-  <img src="https://github.com/b1lal4real/b1lal4real/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
