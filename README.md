@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bilal
+[# Hi there! 👋 I'm Bilal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%26+Developer;JavaScript+Enthusiast;Discord+Bot+Creator;Learning+C%2FC%23;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -105,3 +105,4 @@ const bilal = {
 <div align="center">
   💙 Thanks for visiting my profile! Feel free to explore my repositories and connect with me!
 </div>
+](https://www.youtube.com/watch?v=HXBIr719tZg)
