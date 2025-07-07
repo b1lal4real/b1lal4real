@@ -96,7 +96,7 @@ const bilal = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
+--
 
 <div align="center">
   <i>✨ "The best way to predict the future is to create it" ✨</i>
