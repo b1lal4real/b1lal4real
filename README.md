@@ -80,7 +80,7 @@ const bilal = {
 - 💬 Ask me about **JavaScript, HTML, CSS, and Discord bots**
 - ⚡ Fun fact: I love creating automation tools and web applications
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!!
 
 <div align="center">
   
