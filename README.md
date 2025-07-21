@@ -1,79 +1,22 @@
-[# Hi there! 👋 I'm Bilal
+# Hey there, I'm Bilal! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%26+Developer;JavaScript+Enthusiast;Discord+Bot+Creator;Learning+C%2FC%23;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=b1lal4real&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ervan.rf.gd-%230077B5?style=flat&logo=react)](http://ervan.rf.gd/)
+[![GitHub](https://img.shields.io/badge/GitHub-b1lal4real-%23181717?style=flat&logo=github)](https://github.com/b1lal4real)
 
 ## 🚀 About Me
+I'm a passionate developer who loves building cool stuff with code. Always learning, always coding!
 
-```javascript
-const bilal = {
-    status: "Student & Developer",
-    location: "🌍 Earth",
-    currentFocus: ["JavaScript", "HTML", "CSS"],
-    learning: ["C", "C#"],
-    passion: "Creating Discord bots and web applications",
-    motto: "Code with passion, learn with purpose"
-};
-```
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌱 Currently Learning
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-  
-### 🎵 Discord Streaming Status
-[![Discord Streaming Status](https://github-readme-stats.vercel.app/api/pin/?username=b1lal4real&repo=discord-streaming-statue&theme=tokyonight&hide_border=true)](https://github.com/b1lal4real/discord-streaming-statue)
-
-### 🎤 Discord Temp Voice
-[![Discord Temp Voice](https://github-readme-stats.vercel.app/api/pin/?username=b1lal4real&repo=discord-tempvoice&theme=tokyonight&hide_border=true)](https://github.com/b1lal4real/discord-tempvoice)
-
-</div>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 ## 📊 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=b1lal4real&show_icons=true&theme=radical)](https://github.com/b1lal4real)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b1lal4real&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1lal4real&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## 📫 How to reach me
+- Portfolio: [ervan.rf.gd](http://ervan.rf.gd/)
+- GitHub: [@b1lal4real](https://github.com/b1lal4real)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1lal4real&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 🤝 Let's Connect!!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](http://ervan.rf.gd/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b1lal4real/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b1lal4real)
-
-</div>
-
+"First, solve the problem. Then, write the code." - John Johnson
